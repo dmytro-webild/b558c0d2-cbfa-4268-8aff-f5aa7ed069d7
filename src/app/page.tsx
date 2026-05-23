@@ -99,10 +99,10 @@ export default function LandingPage() {
           handle: "@tomc",
           testimonial: "The best agency in the city.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg?_wi=1",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -337,7 +337,7 @@ export default function LandingPage() {
           handle: "@alice",
           testimonial: "Incredible help buying our home.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg?_wi=2",
         },
         {
           id: "2",
@@ -402,7 +402,7 @@ export default function LandingPage() {
       title="Common Questions"
       description="Answers to help navigate your real estate search."
       faqsAnimation="blur-reveal"
-      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg?_wi=2"
     />
   </div>
 
