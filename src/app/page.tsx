@@ -53,9 +53,9 @@ export default function LandingPage() {
         { name: "Jane Smith", handle: "@janes", testimonial: "Found our perfect home in days!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/outdoor-swimming-pool-with-umbrella-chair-lounge-around-there-leisure-travel_74190-7877.jpg" },
         { name: "Mike Ross", handle: "@miker", testimonial: "Seamless process, highly recommended.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/beautiful-swimming-pool-resort_1339-7054.jpg" },
         { name: "Sara Lee", handle: "@saral", testimonial: "They truly care about your needs.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/vertical-picture-spiral-staircase-building-sunlight-huatulco-mexico_181624-26945.jpg" },
-        { name: "Tom Cook", handle: "@tomc", testimonial: "The best agency in the city.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg" },
+        { name: "Tom Cook", handle: "@tomc", testimonial: "The best agency in the city.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg?_wi=1" },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -143,7 +143,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Alice Brown", handle: "@alice", testimonial: "Incredible help buying our home.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg" },
+        { id: "1", name: "Alice Brown", handle: "@alice", testimonial: "Incredible help buying our home.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-modern-woman_23-2148342425.jpg?_wi=2" },
         { id: "2", name: "Bob Green", handle: "@bobg", testimonial: "Very professional and friendly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-man-elegant-suit-glasses-correct-his-jacket-while-standing-against-skyscraper-background_613910-20123.jpg" },
         { id: "3", name: "Charlie Day", handle: "@charlied", testimonial: "Smooth closing process.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-executive-work_1098-519.jpg" },
         { id: "4", name: "Dana White", handle: "@danaw", testimonial: "They listen to what you need.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-brunette-woman-with-combed-hair-clean-face-skin-looking-thoughtful-logo-promo-left-empty-space-isolated-studio-background_176420-46713.jpg" },
@@ -166,7 +166,7 @@ export default function LandingPage() {
       ]}
       title="Common Questions"
       description="Answers to help navigate your real estate search."
-      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beach-chair-resort_1150-17976.jpg?_wi=2"
     />
   </div>
 
